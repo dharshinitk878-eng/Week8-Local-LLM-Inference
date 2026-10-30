@@ -1,0 +1,7 @@
+
+ollama
+pandas
+notebook
+ipykernel
+transformers
+torch
