@@ -3,7 +3,7 @@ import ollama
 import csv
 from datetime import datetime
 
-model = "gemma3:1b"
+model = "llama3.2:1b"
 
 prompts = [
     ("Education", "Explain Artificial Intelligence in simple words."),

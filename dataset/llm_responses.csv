@@ -519,3 +519,11 @@ Here's a breakdown of the key parts:
 **To help me tailor my explanation even further, could you tell me:**
 
 *   **What kind of business are you interested in?** (e.g., a small bakery, a clothing store, a consulting service?)"
+
+
+
+Prompt,Model,Response_Quality,Response_Length,Accuracy,Observation
+Explain Artificial Intelligence,Gemma 3,Good,Medium,Check facts,Clear explanation
+Explain Artificial Intelligence,Llama 3.2,Good,Medium,Check facts,Compare with Gemma
+Explain Python,Gemma 3,Good,Medium,Check facts,Easy explanation
+Explain Python,Llama 3.2,Good,Medium,Check facts,Compare with Gemma
